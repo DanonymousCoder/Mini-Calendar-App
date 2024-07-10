@@ -35,7 +35,22 @@
     color: #fff;
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px;
+    gap: 1rem;
 }
 .left {
     width: 58%;
+}
+#date {
+    font-size: 100px;
+    line-height: 90px;
+}
+#day {
+    font-size: 25px;
+}
+#month {
+    font-size: 50px;
+    line-height: 40px;
+}
+#year {
+    font-size: 25px;
 }
